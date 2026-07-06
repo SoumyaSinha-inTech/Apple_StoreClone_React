@@ -1,0 +1,32 @@
+@media (max-width:768px){
+
+.cart-item{
+
+flex-direction:column !important;
+
+align-items:center !important;
+
+text-align:center;
+
+}
+
+.cart-info{
+
+padding-left:0 !important;
+
+align-items:center;
+
+}
+
+.cart-price{
+
+margin-left:0 !important;
+
+align-items:center !important;
+
+width:100%;
+
+}
+
+}
+
